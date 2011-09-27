@@ -1,0 +1,116 @@
+\ProvidesPackage{ku-forside}
+
+\RequirePackage[T1]{fontenc}
+\RequirePackage[sc]{mathpazo}
+\linespread{1.05}
+
+\def\SPROG{en}\def\FARVE{farve}\def\AFDELING{nat}\def\FORSIDE{titelside}
+
+\newif\if@en % \newif\if@da
+
+\newif\if@ku   \newif\if@farma \newif\if@hum
+\newif\if@jur  \newif\if@life  \newif\if@nat
+\newif\if@samf \newif\if@sund  \newif\if@teo
+
+\newif\if@farve \newif\if@sh
+
+\newif\if@titelside \newif\if@stor \newif\if@lille
+
+\newif\if@babel \DeclareOption{babel}{\@babeltrue}
+
+\DeclareOption{en}{\@entrue} % \DeclareOption{da}{\@datrue}
+
+\DeclareOption{ku}{\@kutrue}     \DeclareOption{farma}{\@farmatrue} \DeclareOption{hum}{\@humtrue}
+\DeclareOption{jur}{\@jurtrue}   \DeclareOption{life}{\@lifetrue}   \DeclareOption{nat}{\@nattrue}
+\DeclareOption{samf}{\@samftrue} \DeclareOption{sund}{\@sundtrue}   \DeclareOption{teo}{\@teotrue}
+
+\DeclareOption{farve}{\@farvetrue} \DeclareOption{sh}{\@shtrue}
+
+\DeclareOption{lille}{\@lilletrue} \DeclareOption{stor}{\@stortrue}
+\DeclareOption{titelside}{\@titelsidetrue}
+
+\ProcessOptions\relax
+
+\if@en \def\SPROG{en} \fi % \if@da \def\SPROG{da} \fi
+
+\if@ku   \def\AFDELING{ku}   \fi \if@farma \def\AFDELING{farma} \fi \if@hum \def\AFDELING{hum} \fi
+\if@jur  \def\AFDELING{jur}  \fi \if@life  \def\AFDELING{life}  \fi \if@nat \def\AFDELING{nat} \fi
+\if@samf \def\AFDELING{samf} \fi \if@sund  \def\AFDELING{sund}  \fi \if@teo \def\AFDELING{teo} \fi
+
+\if@sh \def\FARVE{sh} \fi \if@farve \def\FARVE{farve} \fi
+
+\if@stor \def\FORSIDE{stor} \fi \if@lille \def\FORSIDE{lille} \fi
+\if@titelside \def\FORSIDE{titelside} \fi
+
+\def\OPGAVE{$\backslash$opgave$\{\ldots\}$}
+\def\FORFATTER{$\backslash$forfatter$\{\ldots\}$ el. $\backslash$author$\{\ldots\}$ }
+\def\TITEL{$\backslash$titel$\{\ldots\}$ el. $\backslash$title$\{\ldots\}$}
+\def\UNDERTITEL{$\backslash$undertitel$\{\ldots\}$}
+\def\VEJLEDER{$\backslash$vejleder$\{\ldots\}$}
+\def\AFLEVERINGSDATO{$\backslash$dato$\{\ldots\}$ el. $\backslash$date$\{\ldots\}$}
+
+\renewcommand{\author}[1]{\def\FORFATTER{#1}}
+\renewcommand{\title}[1]{\def\TITEL{#1}}
+\renewcommand{\date}[1]{\def\AFLEVERINGSDATO{#1}}
+
+\newcommand{\opgave}[1]{\def\OPGAVE{#1}}
+\newcommand{\forfatter}[1]{\def\FORFATTER{#1}}
+\newcommand{\titel}[1]{\def\TITEL{#1}}
+\newcommand{\undertitel}[1]{\def\UNDERTITEL{#1}}
+\newcommand{\vejleder}[1]{\def\VEJLEDER{#1}}
+\newcommand{\dato}[1]{\def\AFLEVERINGSDATO{#1}}
+
+\RequirePackage{eso-pic,graphicx,fix-cm,ae,aecompl,ifthen}
+\RequirePackage[usenames]{color}
+
+\RequirePackage[english]{babel}
+
+\def\maketitle{\thispagestyle{empty}
+
+\AddToShipoutPicture*{\put(0,602){\includegraphics*[viewport=0 600 700 1600]{kantine-farve}}}
+\AddToShipoutPicture*{\put(0,0){\includegraphics*{kantine-text}}}
+\ 
+\vspace{1.5in}
+
+\begin{center}
+\fontsize{50}{55}\selectfont\bf\sc F\ae llesk\o leskab
+\end{center}
+
+\vspace{0.3in}
+
+\begin{center}
+\includegraphics[scale=0.8]{fridge}
+\end{center}
+
+\vspace{0.3in}
+
+\Large
+
+\begin{itemize}
+
+\item Brugernes k\o leskab -- adgang for alle!
+
+\item Maden skal have navn {\bf og} dato p\aa.
+
+\item Er maden forældet, eller der ingen navn på? \\ Så må du smide den ud {\bf uden} ansvar!
+
+\end{itemize}
+
+\vspace{0.3in}
+
+\begin{center}
+
+\it Hint: Du kan med fordel g\o re brug af af en kopikasse hvis du har rigtig meget mad.
+
+\end{center}
+
+\Large
+
+\vspace{0.37in}
+
+\begin{flushright}
+Med Venlig Hilsen\\
+Kantinebestyrelsen\\
+kantine@diku.dk
+\end{flushright}
+}

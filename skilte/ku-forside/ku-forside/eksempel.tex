@@ -1,0 +1,36 @@
+\documentclass[15pt]{article}
+\usepackage[a4paper, hmargin={2.8cm, 2.8cm}, vmargin={2.5cm, 2.5cm}]{geometry}  % Geometri-pakke: Styrer bl.a. maginer    %
+
+\usepackage[usenames,dvipsnames]{color}
+
+\usepackage[en, titelside]{ku-forside}
+%
+% Mini-manual til ku-forside pakken:
+%
+% Sprogmuligheder:     da, en
+% babel loader babelpakken, med det valgte sprog
+% Fakultetsmuligheder: farma, hum, jur, ku, life, nat, samf, sund, teo
+% Farvemuligheder:     sh, farve
+% Forsidemuligheder: lille, stor, titelside
+%      titelside er identisk med designet på ku.dk/designmanual
+%      lille er giver et lille logo sammen med titlen på den første side
+%      stor er giver et stort logo sammen med titlen på den første side
+%
+% Default er [da,nat,farve,titelside]
+%
+% Ex. \usepackage[babel, lille, jur, sh, en]{ku-forside} giver et lille logo i sorthvid for juridisk fakultet og loader babelpakken med engelsk som sprog.
+
+\pagestyle{empty}
+
+\titel{Test}
+\undertitel{Test test}
+\opgave{Overspringshandling}
+\forfatter{Navnet}%
+\dato{\today}%
+\vejleder{Doktoren} %  Findes kun under 'titelside'
+
+\begin{document}
+\maketitle
+
+
+\end{document}

@@ -1,0 +1,507 @@
+This is pdfeTeX, Version 3.141592-1.20a-2.2 (MiKTeX 2.4) (preloaded format=latex 2005.1.4)  24 OCT 2007 13:11
+entering extended mode
+**Startark.tex
+(Startark.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8a> and hyphenation patterns for english, french, german, ngerman, da
+nish, dumylang, nohyphenation, loaded.
+(C:\texmf\tex\latex\base\article.cls
+Document Class: article 2004/02/16 v1.4f Standard LaTeX document class
+(C:\texmf\tex\latex\base\size11.clo
+File: size11.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (C:\texmf\tex\latex\geometry\geometry.sty
+Package: geometry 2002/07/08 v3.2 Page Geometry
+(C:\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@dimlist=\toks15
+
+(C:\texmf\tex\latex\geometry\geometry.cfg))
+(C:\texmf\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(C:\texmf\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+))
+(C:\texmf\tex\latex\dstroke\dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(P:\imf-texmf\tex\latex\amslatex\classes\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks17
+\thm@bodyfont=\toks18
+\thm@headfont=\toks19
+\thm@notefont=\toks20
+\thm@headpunct=\toks21
+\thm@preskip=\skip43
+\thm@postskip=\skip44
+\thm@headsep=\skip45
+\dth@everypar=\toks22
+)
+(C:\texmf\tex\latex\base\inputenc.sty
+Package: inputenc 2004/02/05 v1.0d Input encoding file
+ (C:\texmf\tex\latex\base\ansinew.def
+File: ansinew.def 2004/02/05 v1.0d Input encoding file
+))
+(P:\imf-texmf\tex\latex\amslatex\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(P:\imf-texmf\tex\latex\amslatex\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(P:\imf-texmf\tex\latex\amslatex\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks23
+\ex@=\dimen107
+))
+(P:\imf-texmf\tex\latex\amslatex\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen108
+)
+(P:\imf-texmf\tex\latex\amslatex\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks24
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks25
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks26
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(P:\imf-texmf\tex\latex\eurosym\eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box28
+)
+(C:\texmf\tex\latex\caption\caption.sty
+Package: caption 2004/07/16 v3.0c Customising captions (AS)
+\captionmargin=\dimen116
+\captionwidth=\dimen117
+\captionindent=\dimen118
+\captionparindent=\dimen119
+\captionhangindent=\dimen120
+)
+(C:\texmf\tex\latex\listings\listings.sty
+\lst@mode=\count102
+\lst@gtempboxa=\box29
+\lst@token=\toks28
+\lst@length=\count103
+\lst@currlwidth=\dimen121
+\lst@column=\count104
+\lst@pos=\count105
+\lst@lostspace=\dimen122
+\lst@width=\dimen123
+\lst@newlines=\count106
+\lst@lineno=\count107
+\c@lstlisting=\count108
+\lst@maxwidth=\dimen124
+
+(C:\texmf\tex\latex\listings\lstpatch.sty
+File: lstpatch.sty 2004/09/07 1.3a (Carsten Heinz)
+)
+(C:\texmf\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2004/09/07 1.3 (Carsten Heinz)
+\c@lstnumber=\count109
+\lst@skipnumbers=\count110
+\lst@framebox=\box30
+)
+(C:\texmf\tex\latex\listings\listings.cfg
+File: listings.cfg 2004/09/05 1.3 listings configuration
+))
+Package: listings 2004/09/07 1.3a (Carsten Heinz)
+
+(C:\texmf\tex\latex\psnfss\courier.sty
+Package: courier 2004/09/15 PSNFSS-v9.2 (WaS) 
+) (C:\texmf\tex\latex\tools\multicol.sty
+Package: multicol 2004/02/14 v1.6e multicolumn formatting (FMi)
+\c@tracingmulticols=\count111
+\mult@box=\box31
+\multicol@leftmargin=\dimen125
+\c@unbalance=\count112
+\c@collectmore=\count113
+\doublecol@number=\count114
+\multicoltolerance=\count115
+\multicolpretolerance=\count116
+\full@width=\dimen126
+\page@free=\dimen127
+\premulticols=\dimen128
+\postmulticols=\dimen129
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box32
+\last@line=\box33
+\mult@rightbox=\box34
+\mult@grightbox=\box35
+\mult@gfirstbox=\box36
+\mult@firstbox=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\c@columnbadness=\count117
+\c@finalcolumnbadness=\count118
+\last@try=\dimen130
+\multicolovershoot=\dimen131
+\multicolundershoot=\dimen132
+\mult@nat@firstbox=\box55
+\colbreak@box=\box56
+) (ku-forside.sty
+Package: ku-forside 2007/07/07 v1.0 Frontpages with University of Cph. logos
+ (C:\texmf\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+
+(C:\texmf\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (C:\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+ (C:\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (C:\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2003/03/12 v1.1 MiKTeX 'graphics' configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(C:\texmf\tex\latex\graphics\pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count119
+))
+\Gin@req@height=\dimen133
+\Gin@req@width=\dimen134
+) (C:\texmf\tex\latex\base\fix-cm.sty
+Package: fix-cm 2004/02/13 v1.1h fixes to LaTeX
+
+(C:\texmf\tex\latex\base\ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)) (C:\texmf\tex\latex\ae\ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(C:\texmf\tex\latex\base\fontenc.sty
+Package: fontenc 2004/02/22 v1.99f Standard LaTeX package
+ (C:\texmf\tex\latex\base\t1enc.def
+File: t1enc.def 2004/02/22 v1.99f Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+(C:\texmf\tex\latex\ae\t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+))) (C:\texmf\tex\latex\ae\aecompl.sty
+Package: aecompl 1998/07/23 0.9 T1 Complements for AE fonts (D. Roegel)
+)
+(C:\texmf\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\texmf\tex\latex\graphics\color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+
+(C:\texmf\tex\latex\00miktex\color.cfg
+File: color.cfg 2003/03/08 v1.0 MiKTeX 'color' configuration
+)
+Package color Info: Driver file: pdftex.def on input line 125.
+) (C:\texmf\tex\generic\babel\babel.sty
+Package: babel 2004/02/19 v3.8a The Babel package
+
+(C:\texmf\tex\generic\babel\english.ldf
+Language: english 2004/02/19 v3.3m English support from the babel system
+ (C:\texmf\tex\generic\babel\babel.def
+File: babel.def 2004/02/19 v3.8a Babel common definitions
+\babel@savecnt=\count120
+\U@D=\dimen135
+)
+\l@canadian = a dialect from \language\l@english 
+) (C:\texmf\tex\generic\babel\danish.ldf
+Language: danish 2004/02/19 v1.3p Danish support from the babel system
+Package babel Info: Making " an active character on input line 82.
+)))
+\symrsfscript=\mathgroup6
+
+(C:\texmf\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2003/11/30 v6.74m Hypertext links for LaTeX
+\@linkdim=\dimen136
+\Hy@linkcounter=\count121
+\Hy@pagecounter=\count122
+
+(C:\texmf\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2003/11/30 v6.74m Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\texmf\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2003/03/08 v1.0 MiKTeX 'hyperref' configuration
+)
+Package hyperref Info: Hyper figures OFF on input line 1880.
+Package hyperref Info: Link nesting OFF on input line 1885.
+Package hyperref Info: Hyper index ON on input line 1888.
+Package hyperref Info: Plain pages ON on input line 1893.
+Package hyperref Info: Backreferencing OFF on input line 1900.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2004.
+(P:\imf-texmf\tex\latex\html\url.sty
+Package: url 1999/03/02  ver 1.4  Verb mode for urls, email addresses, and file
+ names
+)
+LaTeX Info: Redefining \url on input line 2143.
+\Fld@menulength=\count123
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+\Choice@toks=\toks29
+\Field@toks=\toks30
+Package hyperref Info: Hyper figures OFF on input line 2618.
+Package hyperref Info: Link nesting OFF on input line 2623.
+Package hyperref Info: Hyper index ON on input line 2626.
+Package hyperref Info: backreferencing OFF on input line 2633.
+Package hyperref Info: Link coloring OFF on input line 2638.
+\c@Item=\count124
+\c@Hfootnote=\count125
+)
+*hyperref using default driver hpdftex*
+(C:\texmf\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2003/11/30 v6.74m Hyperref driver for pdfTeX
+ (C:\texmf\tex\latex\psnfss\pifont.sty
+Package: pifont 2004/09/15 PSNFSS-v9.2 Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(C:\texmf\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+ (C:\texmf\tex\latex\psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\Fld@listcount=\count126
+\@outlinefile=\write3
+)
+(Startark.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 79.6678pt, 438.17227pt, 79.6678pt
+v-parts: 79.6678pt, 685.71124pt, 79.6678pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  438.17227pt
+\textheight 685.71124pt
+\oddsidemargin  7.39781pt
+\evensidemargin 7.39781pt
+\topmargin  -29.60219pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 59.0pt
+\marginparsep   10.0pt
+\columnsep  10.0pt
+\skip\footins  10.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+ (C:\texmf\tex\latex\ms\ragged2e.sty
+Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
+
+(C:\texmf\tex\latex\ms\everysel.sty
+Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
+LaTeX Info: Redefining \selectfont on input line 125.
+)
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
+)
+Package caption Info: listings package v1.2 (or newer) detected on input line 6
+7.
+ ABD: EveryShipout initializing macros
+(C:\texmf\tex\context\base\supp-pdf.tex (C:\texmf\tex\context\base\supp-mis.tex
+loading : Context Support Macros / Miscellaneous (2004.10.26)
+\protectiondepth=\count127
+\scratchcounter=\count128
+\scratchtoks=\toks31
+\scratchdimen=\dimen139
+\scratchskip=\skip65
+\scratchmuskip=\muskip11
+\scratchbox=\box57
+\scratchread=\read1
+\scratchwrite=\write4
+\zeropoint=\dimen140
+\onepoint=\dimen141
+\onebasepoint=\dimen142
+\minusone=\count129
+\thousandpoint=\dimen143
+\onerealpoint=\dimen144
+\emptytoks=\toks32
+\nextbox=\box58
+\nextdepth=\dimen145
+\everyline=\toks33
+\!!counta=\count130
+\!!countb=\count131
+\recursecounter=\count132
+)
+loading : Context Support Macros / PDF (2004.10.26)
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPtoPDFconversion=\toks34
+)
+Package hyperref Info: Link coloring OFF on input line 67.
+ (C:\texmf\tex\latex\hyperref\nameref.sty
+Package: nameref 2003/12/03 v2.21 Cross-referencing by name of section
+\c@section@level=\count135
+)
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+ (Startark.out) (Startark.out)
+(Startark.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+ (C:\texmf\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+
+(C:\texmf\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for OMS+rsfs on input line 3.
+ (C:\texmf\tex\latex\calrsfs\omsrsfs.fd))
+\tf@toc=\write5
+LaTeX Font Info:    Try loading font information for T1+aett on input line 75.
+
+(C:\texmf\tex\latex\ae\t1aett.fd
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+)
+<nat-farve.pdf, id=27, 597.23125pt x 845.1575pt>
+File: nat-farve.pdf Graphic file (type pdf)
+ <use nat-farve.pdf>
+File: nat-farve.pdf Graphic file (type pdf)
+
+<use nat-farve.pdf>
+File: nat-farve.pdf Graphic file (type pdf)
+ <use nat-farve.pdf> [1{psfonts.map}
+
+ <nat-farve.pdf>]
+(Startark.aux) ) 
+Here is how much of TeX's memory you used:
+ 7165 strings out of 95491
+ 94184 string characters out of 1189148
+ 146963 words of memory out of 1149187
+ 9880 multiletter control sequences out of 60000
+ 30166 words of font info for 71 fonts, out of 500000 for 1000
+ 14 hyphenation exceptions out of 607
+ 35i,11n,42p,350b,229s stack positions out of 1500i,500n,5000p,200000b,32768s
+ 71 PDF objects out of 300000
+ 11 named destinations out of 300000
+ 80 words of extra memory for PDF output out of 65536
+<C:\texmf\fonts\type1\bluesky\cm\cmtt10.pfb><C:\texmf\fonts\typ
+e1\bluesky\cm\cmbx10.pfb><C:\texmf\fonts\type1\bluesky\cm\cmr6.pfb><C:\texmf\fo
+nts\type1\bluesky\cm\cmti7.pfb><C:\texmf\fonts\type1\bluesky\cm\cmr10.pfb><C:\t
+exmf\fonts\type1\bluesky\cm\cmbx12.pfb>
+Output written on Startark.pdf (1 page, 51194 bytes).

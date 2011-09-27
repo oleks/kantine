@@ -1,0 +1,9 @@
+\select@language {danish}
+\contentsline {section}{A}{1}{section*.2}
+\contentsline {subsection}{a}{1}{section*.3}
+\contentsline {subsubsection}{a}{1}{section*.4}
+\contentsline {paragraph}{a}{1}{section*.5}
+\contentsline {subparagraph}{a}{1}{section*.6}
+\contentsline {subsection}{b}{1}{section*.7}
+\contentsline {subsection}{c}{1}{section*.8}
+\contentsline {section}{B}{1}{section*.9}
